@@ -4,7 +4,6 @@ import About from './About';
 import Experience from './Experience';
 import Projects from './Projects';
 import Contact from './Contact';
-import Navbar from './NavBar';
 import TechStack from './Techstack';
 
 export default function Home() {
