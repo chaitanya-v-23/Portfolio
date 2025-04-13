@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <g opacity="0.1">
+    <image href="react.svg" x="0" y="0" width="40" height="40"/>
+    <image href="html5.svg" x="50" y="0" width="40" height="40"/>
+    <image href="css3.svg" x="100" y="0" width="40" height="40"/>
+    <image href="javascript.svg" x="0" y="50" width="40" height="40"/>
+    <!-- <image href="java.svg" x="50" y="50" width="40" height="40"/> -->
+    <image href="mysql.svg" x="100" y="50" width="40" height="40"/>
+  </g>
+</svg>
